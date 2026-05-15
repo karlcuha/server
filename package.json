@@ -1,0 +1,20 @@
+{
+  "name": "http-info-client-server",
+  "version": "1.0.0",
+  "description": "HTTP client and server for collecting internet content with offline LocalStorage reading",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["nodejs", "express", "fetch", "localstorage", "ajax"],
+  "author": "Student",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3",
+    "helmet": "^7.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
