@@ -46,7 +46,7 @@ npm start
 
 4 Открыть сервер в браузере
 
-```text
+```
 http://localhost:3000
 ```
 
@@ -57,4 +57,4 @@ http://localhost:3000
  "html"
  "css"
 
-Список ключевых слов и URL находится в файле "server.js" в объекте "keywordUrlMap".
+Список ключевых слов и URL находится в файле "server.js" в "keywordUrlMap".
